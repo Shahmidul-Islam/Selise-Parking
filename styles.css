@@ -1,0 +1,40 @@
+.container {
+  margin-top: 20px;
+}
+
+.card {
+  padding: 20px;
+  margin-bottom: 20px;
+  background-color: #f7f7f7;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+h2, h3 {
+  color: #333;
+}
+
+.table {
+  margin-bottom: 0;
+}
+
+.table th, .table td {
+  text-align: center;
+  vertical-align: middle;
+}
+
+.btn {
+  margin-right: 5px;
+}
+
+.btn-warning {
+  background-color: #f0ad4e;
+  border-color: #eea236;
+  color: white;
+}
+
+.btn-warning:hover {
+  background-color: #ec971f;
+  border-color: #d58512;
+}
